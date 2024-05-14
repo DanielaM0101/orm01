@@ -1,0 +1,12 @@
+{
+    "type": "postgres",
+    "host": "viaduct.proxy.rlwy.net",
+    "port": 5432,
+    "username": "postgres",
+    "password": "bhdgFbZwmOwNniIjuGgdDGvtLNuzXQph",
+    "database": "railway",
+    "synchronize": true,
+    "logging": false,
+    "entities": ["dist/**/*.entity.js"]
+  }
+  
