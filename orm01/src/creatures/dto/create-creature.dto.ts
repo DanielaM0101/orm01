@@ -1,6 +1,5 @@
 import { IsBoolean, IsNotEmpty, IsNumber, IsString } from 'class-validator';
 
-// create-user-dto
 export class CreateCreatureDto {
   @IsNotEmpty()
   @IsString()
